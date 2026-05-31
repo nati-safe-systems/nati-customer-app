@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">נתי SAFE - ניהול לקוח</string>
+    <string name="start_url">https://nati-safe-systems.github.io/screen/tenant_panel.html</string>
+    <string name="no_connection">אין חיבור לאינטרנט. בדוק את החיבור ונסה שוב.</string>
+    <string name="retry">נסה שוב</string>
+</resources>
